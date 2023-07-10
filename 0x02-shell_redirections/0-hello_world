@@ -1,2 +1,2 @@
 #!/bin/bash
-eho "hello_world"
+echo "hello._world"
